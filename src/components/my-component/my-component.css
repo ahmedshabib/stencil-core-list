@@ -1,0 +1,27 @@
+:host {
+  display: block;
+
+}
+
+.container{
+  height:200px;
+}
+table {
+  width: 100%;
+  font-family: Nunito sans-serif;
+}
+
+th {
+  text-transform: uppercase;
+}
+
+th, td {
+  padding: 7px;
+  text-align: left;
+  border: none;
+  border-bottom: 1px solid #ddd;
+}
+
+tr:hover {
+  background-color: lightgrey;
+}
